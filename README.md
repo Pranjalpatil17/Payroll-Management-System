@@ -9,9 +9,4 @@ Easy record maintenance
 Secure employee data management
 Faster payroll processing
 
-Example Modules -
-Login Module
-Employee Module
-Attendance Module
-Payroll Processing Module
-Report Generation Module
+
